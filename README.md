@@ -1,6 +1,6 @@
 # FocusedCleaner
 
-This is the source code of paper "[FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification]".
+This is the source code of paper "FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification".
 
 ## Requirements
 python==3.8
